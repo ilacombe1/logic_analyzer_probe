@@ -1,0 +1,89 @@
+,,,,,,, ,
+,,,,,,,,
+,,,,,,, ,
+,,,,,, ,,
+,,,,,,,, 
+,,,,,,,, 
+,,,,, ,,,
+,,,,,,,,
+,,,,,,,,
+Qty,Value,Device,Package,Parts,Description,Price Breakdown,LCSC part #,Link
+1,,PINHD-1X1,1X01,JP1,PIN HEADER,"50+                                                                                   US$0.004599
+500+
+US$0.00335
+1500+
+US$0.00312
+5000+
+US$0.002891",C81276,https://lcsc.com/products/Pin-Header-Female-Header_644.html
+2,0.1uF,C2 5-3,C2 5-3,C1 C2,CAPACITOR,"50+
+US$0.007105
+500+
+US$0.005273
+1500+
+US$0.004936
+5000+
+US$0.004599",C43351,https://lcsc.com/products/Aluminum-Electrolytic-Capacitors-Leaded_315.html
+3,1k,R-US_0207/10,0207/10,R2 R3 R5,RESISTOR American symbol,"50+
+US$0.005098
+500+
+US$0.003682
+1500+
+US$0.003422
+5000+
+US$0.003162","	
+C58674",https://lcsc.com/products/Metal-Film-Resistor-TH_310.html?q=1k%20resistor
+1,2.2M,R-US_0207/10,0207/10,R1,RESISTOR American symbol,"20+
+US$0.028875
+200+
+US$0.021356
+600+
+US$0.019975
+2000+
+US$0.018594",C122183,https://lcsc.com/products/Metal-Glaze-Resistors_932.html?q=2.2M%20resistor
+1,4.7M,R-US_0207/10,0207/10,R4,RESISTOR American symbol,"10+
+US$0.036402
+100+
+US$0.027488
+300+
+US$0.025851
+1000+
+US$0.024214",C388324,https://lcsc.com/products/MELF-Resistor_984.html?q=4.7M%20resistor
+1,4001D,4001D,SO14,NOR,Quad 2-input NOR,"5+
+US$0.069741
+50+
+US$0.051415
+150+
+US$0.048049
+500+
+US$0.044683
+2500+
+US$0.043187","	
+C507174",https://lcsc.com/products/Gates-And-Inverters_11104.html?q=4001%20IC
+1,TLLG4400,TLLG4400,LED3MM,LED4,Low Current (2mA) LED 3 mm Tinted Diffused Package color GREEN,"10+
+US$0.053165
+100+
+US$0.038397
+300+
+US$0.035685
+1000+
+US$0.032973",C99761,https://lcsc.com/products/Light-Emitting-Diodes-LED_528.html
+1,TLLG4400,TLLG4400,LED3MM,LED5,Low Current (2mA) LED 3 mm Tinted Diffused Package color RED,"10+
+US$0.053946
+100+
+US$0.040045
+300+
+US$0.037492
+1000+
+US$0.034939",C99771,https://lcsc.com/products/Light-Emitting-Diodes-LED_528.html 
+1,TLLG4400,TLLG4400,LED3MM,LED6,Low Current (2mA) LED 3 mm Tinted Diffused Package color YELLOW,"20+
+US$0.025261
+200+
+US$0.018597
+600+
+US$0.017373
+2000+
+US$0.016149","
+C396994",https://lcsc.com/products/Light-Emitting-Diodes-LED_528.html?q=yellow
+1,ATMEGA328PB-AUR,ATMEGA328PB-AUR,QFP80P900X900X120-32N,U1,ATmega Series 20 MHz 32 KB Flash 2 KB SRAM 8-Bit Microcontroller - TQFP-32,"1 	        $1.42000
+25	       $1.30000
+100	     $1.18000",N/A (Digikey),https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328PB-AUR/5722706?utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow
